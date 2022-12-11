@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1595541892 source:c:\users\sthembiso\documents\esg\learnc101\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"ESD.h"
+	<time.h>
+
+1594028564 c:\users\sthembiso\documents\esg\learnc101\snake\esd.h
+	<windows.h>
+
+1595541894 source:c:\users\sthem\documents\esg\learnc101\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"ESD.h"
+	<time.h>
+
+1594028566 c:\users\sthem\documents\esg\learnc101\snake\esd.h
+	<windows.h>
+
+1624925597 source:d:\documents\esg\learnc101\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"ESD.h"
+	<time.h>
+
+1594028566 d:\documents\esg\learnc101\snake\esd.h
+	<windows.h>
+
+1670747783 source:c:\users\sthembiso musana\documents\programming\c-and-cpp\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"ESD.h"
+	<time.h>
+
+1670743689 c:\users\sthembiso musana\documents\programming\c-and-cpp\snake\esd.h
+	<windows.h>
+
